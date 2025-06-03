@@ -1,0 +1,10 @@
+{
+    "XMLFilePath": "C:\\Users\\johns\\OneDrive\\Desktop\\JonMon-Lite.xml",
+    "ETLFilePath": "C:\\PerfLogs\\Admin\\JonMon-Lite\\",
+    "TraceName": "JonMon-Lite",
+    "Namespace": "Service",
+    "WorkstationName": ["Local", "Remote"],
+    "User": "TestUser",
+    "Password": "Changeme1!"
+    
+}

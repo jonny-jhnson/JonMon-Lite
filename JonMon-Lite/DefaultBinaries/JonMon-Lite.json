@@ -1,0 +1,10 @@
+{
+    "XMLFilePath": "C:\\Path\\To\\JonMon-Lite.xml",
+    "ETLFilePath": "C:\\PerfLogs\\Admin\\JonMon-Lite\\",
+    "RootPath": "C:\\PerfLogs\\Admin\\JonMon-Lite\\",
+    "TraceName": "JonMon-Lite",
+    "WorkstationName": ["WorkstationName"],
+    "User": "",
+    "Password": ""
+    
+}
