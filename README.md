@@ -80,6 +80,10 @@ Collector set 'JonMon-Lite' started successfully.
 Collector set 'JonMon-Lite' started successfully
 ```
 
+To stop the collection, simply go to the JonMon-Lite window and type "exit" and press enter. 
+
+One thing to note - I don't manually clean up the ETL files, just in case someone wants to grab them, so before you start the next session - you will need to manually remove them. 
+
 Below is a high level architecture of what happens upon running `JonMon-Lite.exe`:
 
 ![arch](image.png)
