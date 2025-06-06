@@ -2,7 +2,8 @@
 JonMon-Lite is a research proof-of-concept "Remote Agentless EDR" that creates an ETW Trace Session through a Data Collector Set. This session can be created locally or remotely. 
 
 ## Write-Up
-A blog was written around this technology and can be found here: <Insert>
+A blog was written around this technology and can be found here: 
+https://jonny-johnson.medium.com/no-agent-no-problem-discovering-remote-edr-8ca60596559f
 
 ## Installation
 
